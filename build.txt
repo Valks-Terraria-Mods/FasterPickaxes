@@ -1,0 +1,5 @@
+author = valkyrienyanko
+version = 0.1
+displayName = Faster Pickaxes
+
+homepage = https://discord.gg/thMupbv
