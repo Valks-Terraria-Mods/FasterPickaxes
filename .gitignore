@@ -1,4 +1,10 @@
 .vs/
+
 bin/
-obj/FasterPickaxes.csproj
-FasterPickaxes.csproj.userFasterPickaxes.sln
+
+obj/
+FasterPickaxes.csproj
+
+FasterPickaxes.csproj.user
+
+FasterPickaxes.sln
