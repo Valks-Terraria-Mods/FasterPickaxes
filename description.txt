@@ -1,1 +1,1 @@
-Axes, hammers and pickaxes swing 25% faster.
+Axes, hammers and pickaxes swing 25% faster. (Configurable)
