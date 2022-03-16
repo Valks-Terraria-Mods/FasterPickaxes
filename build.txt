@@ -1,4 +1,4 @@
 author = valkyrienyanko, convicted tomatophile (Stevie)
-version = 1.5
+version = 1.5.1
 displayName = Faster Tools
-homepage = https://discord.gg/thMupbv
+homepage = https://github.com/Valks-Terraria-Mods/FasterPickaxes
