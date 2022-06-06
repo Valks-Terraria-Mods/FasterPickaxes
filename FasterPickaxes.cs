@@ -1,11 +1,16 @@
-using Terraria.ModLoader;
+global using System.ComponentModel;
+global using Terraria;
+global using Terraria.ModLoader;
+global using Terraria.ModLoader.Config;
 
-namespace FasterPickaxes
+namespace FasterPickaxes;
+
+public class FasterPickaxes : Mod
 {
-	class FasterPickaxes : Mod
+	public static float Speed;
+
+	public FasterPickaxes()
 	{
-		public FasterPickaxes()
-		{
-		}
+		
 	}
 }
